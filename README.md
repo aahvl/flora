@@ -8,14 +8,12 @@ A 2 Key, and a Rotary encoder macropad!
 <img width="787" height="761" alt="{91F89279-F05E-416C-8D0E-F1624E748036}" src="https://github.com/user-attachments/assets/7fb30120-cbf4-4d21-8e48-b9eccf0fc8bd" />
 -
 ## BOM
-2x Cherry MX Switches
--
-2x KeyCaps
--
-1x EC11E Rotary Encoder
--
-1x SEEED Studio XIAO RP2040
--
-1x PCB
--
-1x 3D Printing = Printing Legion / Providers
+
+| Component | Approx. Price |
+|----------|----------|
+| 2x Cherry MX Switches  | £5   |
+| 2x KeyCaps  | £3   |
+| 1x EC11E Rotary Encoder  | £6   |
+| 1x SEEED Studio XIAO RP2040  | £20   |
+| 1x PCB  | £3   |
+| 1x 3D Printing  | ???   |
