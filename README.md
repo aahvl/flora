@@ -9,8 +9,13 @@ A 2 Key, and a Rotary encoder macropad!
 -
 ## BOM
 2x Cherry MX Switches
+-
 2x KeyCaps
+-
 1x EC11E Rotary Encoder
+-
 1x SEEED Studio XIAO RP2040
+-
 1x PCB
+-
 1x 3D Printing = Printing Legion / Providers
