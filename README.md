@@ -6,7 +6,7 @@ The setup includes:
 A rotary encoder (the volume knob is also fully customizable with your own knob).
 A custom engraved logo on the case, finished off with nice, smooth filleted corners.
 -
-The Struggles
+The Struggles:
 The biggest headache with this build was definitely getting the faceplate right. Trying to perfectly trace and align the cutouts for the switches and the rotary encoder so everything lined up cleanly, took a ridiculous amount of trial and error.
 -
 ## Photos
