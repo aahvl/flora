@@ -1,5 +1,13 @@
 ### FloraPad
-A sleek, 2 Cherry MX switches (fun fact: you can pop on a keycap!), and a rotary encoder (you can also pop on a knob!) macropad with a fine logo engraving and filleted corners!
+
+Here is a quick look at a sleek little macro pad I’ve been working on. It’s super compact but packs a ton of utility into a really small macropad.
+The setup includes:
+2 Cherry MX switches (and yes you can swap out the keycaps whenever you want).
+A rotary encoder (the volume knob is also fully customizable with your own knob).
+A custom engraved logo on the case, finished off with nice, smooth filleted corners.
+-
+The Struggles
+The biggest headache with this build was definitely getting the faceplate right. Trying to perfectly trace and align the cutouts for the switches and the rotary encoder so everything lined up cleanly, took a ridiculous amount of trial and error.
 -
 ## Photos
 <img width="475" height="581" alt="{38AEF623-956B-4601-8F19-BF6626A7593A}" src="https://github.com/user-attachments/assets/2e79b5e0-0ab9-43a2-aa8c-ceec519c7ad1" />
